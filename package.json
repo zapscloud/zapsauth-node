@@ -1,6 +1,6 @@
 {
   "name": "@zapscloud/zapsauth",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Zapscloud Auth Package",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/zapscloud/zapsauth/issues"
   },
-  "homepage": "https://github.com/zapscloud/zapsauth#readme"
+  "homepage": "https://github.com/zapscloud/zapsauth#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "extends-classes": "^1.0.5",
+    "debug": "^4.1.1"
+  }
 }
