@@ -4,7 +4,6 @@ Zapscloud Auth Package
 **Initialize Library with config values**
 
     var _zapsauth = new ZapsAuth({
-        url: 'https://api.zapscloud.com',
         app: 'appname',
         authkey: ' ',
         authsecret: ' '
